@@ -27,3 +27,10 @@ https://www.figma.com/file/qK1OHJn1WdMzExQuP7qXel/Jashanpreet_A1?node-id=0%3A1
 3. Can include security features such as emergency calling
 4. Parking Pass, Shuttle Bus pass: Purchase and Payment
 5. Integrating Library and Common centres features where students can reserve their study rooms, books, book tutoring sessions, etctera.
+
+**Design**
+<img width="946" alt="Screen Shot 2022-04-09 at 7 27 08 AM" src="https://user-images.githubusercontent.com/75087492/162569824-7892a194-b4a3-4a5f-a883-822f1119fed8.png">
+
+**Prototype**
+<img width="869" alt="Screen Shot 2022-04-09 at 7 28 02 AM" src="https://user-images.githubusercontent.com/75087492/162569860-1b563a90-4af2-4e3f-a56d-326b3b9e15ce.png">
+
